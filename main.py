@@ -2,7 +2,7 @@
 # MSSV: 202418913
 
 """Menu chạy các kịch bản kiểm thử phần C."""
-from test_models import KichBan
+from kichban import KichBan
 def showMenu():
     print("\n===== KIỂM THỬ KỊCH BẢN PHẦN C =====")
     print(" 1. Tạo hai Employee")
